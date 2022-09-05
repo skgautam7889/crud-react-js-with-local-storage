@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/crud-react-js-with-local-storage/static/css/main.073c9b0a.css",
-    "main.js": "/crud-react-js-with-local-storage/static/js/main.addf985d.js",
+    "main.js": "/crud-react-js-with-local-storage/static/js/main.8375908a.js",
     "static/js/787.2da7515a.chunk.js": "/crud-react-js-with-local-storage/static/js/787.2da7515a.chunk.js",
     "static/media/logo.svg": "/crud-react-js-with-local-storage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/crud-react-js-with-local-storage/index.html",
     "main.073c9b0a.css.map": "/crud-react-js-with-local-storage/static/css/main.073c9b0a.css.map",
-    "main.addf985d.js.map": "/crud-react-js-with-local-storage/static/js/main.addf985d.js.map",
+    "main.8375908a.js.map": "/crud-react-js-with-local-storage/static/js/main.8375908a.js.map",
     "787.2da7515a.chunk.js.map": "/crud-react-js-with-local-storage/static/js/787.2da7515a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.addf985d.js"
+    "static/js/main.8375908a.js"
   ]
 }
